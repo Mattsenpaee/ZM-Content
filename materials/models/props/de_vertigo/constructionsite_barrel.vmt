@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+$basetexture "models\props\De_Vertigo\constructionSite_barrel"
+$bumpmap "models\props\De_Vertigo\constructionSite_barrel_N.vtf"
+
+
+
+
+
+
+
+$surfaceprop metal_barrel
+
+
+$phong 1
+$phongBoost 4
+$phongExponent 45
+$phongfresnelranges "[0.8 0.8 1]"
+$phongTint "{160 190 231}"
+$blendtintbybasealpha 1
+}

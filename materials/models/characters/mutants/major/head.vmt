@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/characters/mutants/major/head"
+	"$surfaceprop" "zombieflesh"
+      "$model" 1
+      "$bumpmap" "models/characters/mutants/major/head_normal"
+	"$envmap" "env_cubemap"
+      "$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ .35 .35 .35 ]"
+	"$envmapconstrast" "1"
+	"$envmapsaturation" 1
+} 	
+
+

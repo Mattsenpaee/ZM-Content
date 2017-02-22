@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$basetexture "metal\iBeam"
+
+$surfaceprop metal
+
+$basemapalphaphongmask 1
+$phong 1
+$phongBoost 6
+$phongExponent 60
+$phongTint "{196 232 253}"
+}

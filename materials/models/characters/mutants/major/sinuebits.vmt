@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/characters/mutants/major/sinuebits"
+	"$surfaceprop" "zombieflesh"
+        "$alphatest" 1
+	"$model" 1
+	"$nocull" 1
+} 
+
+
+
+
+
+
+
+
